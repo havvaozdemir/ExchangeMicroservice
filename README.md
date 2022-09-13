@@ -10,8 +10,8 @@ If you work on Mac you can get docker image for SqlServer.
 ## Usage
 
 Fist of all, clone the repo with the command below. 
-[https://github.com/hozdemir/exchangemicroservice.git]
-(git clone https://github.com/hozdemir/exchangemicroservice.git)
+[https://github.com/havvaozdemir/ExchangeMicroservice]
+(git clone https://github.com/havvaozdemir/ExchangeMicroservice.git)
 
 
 * You must have Microsoft.NET.Sdk net6.0, SqlServer and Visual Studio Code installed on your computer to run the project. Docker Desktop for dockerize options.
